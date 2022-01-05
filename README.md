@@ -23,7 +23,9 @@ Sensor RFID dapat mendeteksi kartu member dan mengizinkan pengunjung masuk berda
 ## Lampiran
 
 ### Video Demo
-https://drive.google.com/file/d/1n90KrUfiDSxsRPog7lEBTiRhNiunXSoq/view?usp=sharing
+https://user-images.githubusercontent.com/80327514/148260596-31e253f9-4bb5-49c7-a4fe-47ed97fe827f.mp4
+
+
 
 # References 
 ```
