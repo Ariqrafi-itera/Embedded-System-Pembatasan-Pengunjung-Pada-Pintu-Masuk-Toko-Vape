@@ -11,7 +11,7 @@ Pada penelitian sistem Pembatasan Pengunjung Pada Pintu Masuk Toko Vape mengguna
 ```
 Sensor RFID dapat mendeteksi kartu member dan mengizinkan pengunjung masuk berdasarkan kartu member tersebut, dan juga membatasi kuota pengunjung dalam ruangan hanya sebanyak 50% dari jumlah member
 
-Anggota Kelompok
+# Anggota Kelompok
 ```
 118140056 Muhammad Ariq Rafi
 118140135 Muhammad Falli Alfarisi
