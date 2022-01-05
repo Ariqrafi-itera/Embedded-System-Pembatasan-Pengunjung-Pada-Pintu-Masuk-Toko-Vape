@@ -28,7 +28,6 @@ https://user-images.githubusercontent.com/80327514/148260596-31e253f9-4bb5-49c7-
 
 
 # References 
-```
 [https://www.youtube.com/watch?v=Ol6x5mjeu4w](https://www.youtube.com/watch?v=Ol6x5mjeu4w)
 [http://roboticbasics.blogspot.com/2016/06/rangkaian-lcd-2x16-lengkap-dengan-program-arduino.html](http://roboticbasics.blogspot.com/2016/06/rangkaian-lcd-2x16-lengkap-dengan-program-arduino.html)
 [https://www.youtube.com/watch?v=BPTb40hFN18](https://www.youtube.com/watch?v=BPTb40hFN18)
